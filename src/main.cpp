@@ -2,8 +2,7 @@
 /*
   main.cpp - main programm to test the VPetLCD Class and the
   screen classes. JUST FOR TESTING PURPOSES This is the *.ino file
-  from the arduino ide
-  Created by Berat Özdemir, January 16 , 2021.
+  from the arduino ide.
 */
 /////////////////////////////////////////////////////////////////
 
