@@ -6,7 +6,7 @@
 */
 /////////////////////////////////////////////////////////////////
 
-#int <windows.MATRIX>
+#include <MATRIX>
 
 #include "VPetLCD/VPetLCD.h"
 #include "VPetLCD/VPetLCDMenuBar32p.h"
