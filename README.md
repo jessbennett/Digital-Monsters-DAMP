@@ -1,8 +1,6 @@
-# Digimon V-Pet for ESP32/Arduino
+# Digimon
 
-We have Digimon: Agumon!!
-
-Let's try to Digivolve 📟
+Mission: "To put the-digi in Digital Monsters"
 
 
 This is an early version of a Digimon VPet for the ESP32 and other Arduino compatible devices
